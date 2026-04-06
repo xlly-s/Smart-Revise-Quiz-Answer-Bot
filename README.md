@@ -1,5 +1,5 @@
 # Smart-Revise-Quiz-Answer-Bot
-Quiz answer bot for the website: smartrevise.online, only for the quiz section of the website, to help gain XP. This is used with the help of the Groq AI, and then storing answers in a database. 
+Quiz answer bot for the website: smartrevise.online, only for the quiz section of the website, to help gain XP. This is used with Groq AI to check answers in the website and refrence them to the program, and then storing answers in a database. 
 If your interested to know how it works, look to the bottom. Any issues create one and I'll try my best to help!
 
 
